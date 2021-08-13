@@ -3,6 +3,6 @@
 //selecting multiple elements => returns us an array of elements
 
 
-var greeting = document.getElementbyId('hello')
-console.log(greeting)
-console.dir(greeting)
+document.getElementById("hello").innerHTML = "Hello, my name is Nick."
+// console.log(greeting)
+// console.dir(greeting)
