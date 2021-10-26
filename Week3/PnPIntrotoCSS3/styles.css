@@ -2,3 +2,23 @@
     text-decoration: underline;
    margin: 70px;
 }
+.h1 {
+    color:darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.p {
+    line-height: 25px;
+}
+#noLine {
+    text-decoration: none;
+}
+#noLine:hover, #noLine:active {
+text-decoration:underline
+}

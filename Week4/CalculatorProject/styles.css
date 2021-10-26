@@ -1,0 +1,26 @@
+body {
+    padding: 25vw;
+    margin: 25vw;
+    background: linear-gradient(to right, #ff8800, #ff0000);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#input1, #input2, #button1 {
+background-color: red;
+color: white;
+font-size: large;
+}
+
+#input3, #input4, #button2 {
+    background-color: rgb(218, 120, 0);
+    color: white;
+    font-size: large;
+}
+
+#input5, #input6, #button3 {
+    background-color: yellow;
+    font-size: large;
+}
